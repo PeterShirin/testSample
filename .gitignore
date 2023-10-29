@@ -1,0 +1,8 @@
+.gradle
+build
+gradlew*
+.idea
+gradle
+..gitignore.un~
+.build.gradle.swp
+.build.gradle.un~
